@@ -1,0 +1,103 @@
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Albert Einstein
+#     - name: Date of Birth
+#       value: 14th March 1879
+#     - name: Languages
+#       value: English, German
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Computer Science
+      institution: Georgia State University, Atlanta, GA
+      year: 2023
+      description:
+        - Dissertation advisor - Dr. Wei Li and Dr. Zhipeng Cai
+
+    - title: M.S. in Computer Science
+      institution: Harbin Engineering University, Harbin, China
+      year: 2019
+      description:
+        - Thsis advisor - Dr. Qilong Han
+
+    - title: B.S. in Mathematics
+      institution: Northeast Forestry University, Harbin, China
+      year: 2016
+      description:
+        - Thsis advisor - Dr. Chunrui Zhang
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Assistant Professor in Computer Science
+      institution: Lane Department of Computer Science and Electronic Eigineering, West Virginia University
+      year: 2023 - Present
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: Graduate Research Assistant
+      institution: Department of Computer Science, Georgia State University
+      year: 2019 - 2023
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: Student Travel Scholarship
+      year: 2023
+      items:
+        - AAAI-2023 student travel scholarship award, supported by Association for the Advancement of Artificial Intelligence, Feb. 2023
+
+    - title: Best Paper Award
+      year: 2022
+      items:
+        - “A Self-Supervised Purification Mechanism for Adversarial Samples”, IEEE International Conference on Smart Data, Espoo, Finland, Aug. 2022
+
+    - title: Outstanding Graduate Research Award
+      year: 2021
+      items:
+        - The sole one, awarded by the Department of Computer Science, Georgia State University, May 2021
+#
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#
+# - title: Honors and Awards
+#   type: time_table
+#   contents:
+#     - year: 1921
+#       items:
+#         - Nobel Prize in Physics
+#         - Matteucci Medal
+#     - year: 2029
+#       items:
+#         - Max Planck Medal
+#
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
