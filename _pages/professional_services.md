@@ -32,6 +32,6 @@ Organize your courses by years, topics, or universities, however you like! -->
 	<li>Elsevier Computer & Security</li>
 	<li>Elsevier High-Confidence Computing</li>
 	<li>Springer Scientific Reports</li>
-	<li>Springer Artificial Intelligence</li>
+	<li>Springer Artificial Intelligence Review</li>
 	<li>Springer Journal of Big Data</li>
 </ul>

@@ -11,7 +11,7 @@ nav_order: 3
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-<h2>Teaching Fellow</h2>
+<h2>Instructor</h2>
 <ul>
 	<li>Instructor, CSC 4222/6222 Cyber Security, Spring 2021, GSU (Student Evaluation Score: 4.5/5.0)</li>
 	<li>Instructor, CSC 4520/6520 Design & Analysis Algorithms, Fall 2019, GSU (Student Evaluation Score: 4.7/5.0)</li>
