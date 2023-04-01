@@ -8,9 +8,11 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address:
+  address: >
     <p>Room 725, 25 Park Place</p>
     <p>Atlanta, GA 30303</p>
+
+
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -32,6 +34,7 @@ I have published papers on and served as reviewer for bunch of premier conferenc
 | Cybersecurity  Study| IoT |
 | |  |
 
+_ _ _
 
 ##### 🚀💡🏳️‍🌈 Currently recruiting❗❗❗
 
