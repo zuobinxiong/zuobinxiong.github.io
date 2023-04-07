@@ -16,9 +16,17 @@ Organize your courses by years, topics, or universities, however you like! -->
 <li>IEEE Student Member</li>
 </ul>
 
-<h2>Reviewer</h2>
+<h2>Conference Reviewer</h2>
 <ul>
 	<li>Discrete Mathematics, Algorithms and Applications (DMAA)</li>
+	<li>IEEE Global Communications Conference (Globecom)</li>
+	<li>IEEE Cyber Science and Technology Congress</li>
+	<li>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</li>
+</ul>
+
+
+<h2>Journal Reviewer</h2>
+<ul>
 	<li>IEEE Transactions on Industrial Informatics (TII)</li>
 	<li>IEEE Transactions on Vehicular Technology (TVT)</li>
 	<li>IEEE Internet of Things Journal (IoT-J)</li>
@@ -26,8 +34,6 @@ Organize your courses by years, topics, or universities, however you like! -->
 	<li>IEEE Transactions on Wireless Communications (TWC)</li>
 	<li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
 	<li>IEEE Transactions on Computational Social Systems (TCSS)</li>
-	<li>IEEE Global Communications Conference (Globecom)</li>
-	<li>IEEE Cyber Science and Technology Congress</li>
 	<li>Elsevier Neurocomputing</li>
 	<li>Elsevier Computer & Security</li>
 	<li>Elsevier High-Confidence Computing</li>

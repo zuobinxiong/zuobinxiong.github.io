@@ -42,7 +42,7 @@
       #     contents:
       #       - Sub-description 1.
       #       - Sub-description 2.
-    - title: Graduate Research Assistant
+    - title: Graduate Teaching/Research Assistant
       institution: Department of Computer Science, Georgia State University
       year: 2019 - 2023
       # description:
@@ -52,6 +52,11 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: Outstanding Graduate Student Award
+      year: 2023
+      items:
+        - The sole one, awarded by the Department of Computer Science, Georgia State University, April 2023
+
     - title: Student Travel Scholarship
       year: 2023
       items:
