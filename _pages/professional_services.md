@@ -16,6 +16,11 @@ Organize your courses by years, topics, or universities, however you like! -->
 <li>IEEE Student Member</li>
 </ul>
 
+<h2>TPC Member</h2>
+<ul>
+<li>2023 - 32nd International Conference on Artificial Neural Networks (ICANN)</li>
+</ul>
+
 <h2>Conference Reviewer</h2>
 <ul>
 	<li>Discrete Mathematics, Algorithms and Applications (DMAA)</li>
