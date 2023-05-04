@@ -32,9 +32,9 @@
 - title: Experience
   type: time_table
   contents:
-    # - title: Assistant Professor in Computer Science
-    #   institution: Lane Department of Computer Science and Electronic Eigineering, West Virginia University
-    #   year: 2023 - Present
+    - title: Assistant Professor in Computer Science
+      institution: Department of Computer Science, University of Nevada, Las Vegas
+      year: 2023 - Present
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -55,7 +55,7 @@
     - title: Outstanding Graduate Student Award
       year: 2023
       items:
-        - The sole one, awarded by the Department of Computer Science, Georgia State University, April 2023
+        - The sole one in each department, awarded by the College of Art & Science, Georgia State University, Apr. 2023
 
     - title: Student Travel Scholarship
       year: 2023

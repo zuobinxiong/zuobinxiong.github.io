@@ -2,7 +2,7 @@
 layout: page
 title: TestGroup
 permalink: /group_sub/
-description: 🚀💡🏳️‍🌈 I am looking for self-motivated students with strong mathematical and programming skills to work with me on Data Privacy, Cybersecurity, Machine Learning, and IoT projects. If you are interested, please email me your CV and indicate your goals.
+description: 🔑🏳️‍🌈 I am looking for self-motivated students with strong mathematical and programming skills to work with me on Data Privacy, Cybersecurity, Machine Learning, and IoT projects. If you are interested, please email me your CV and indicate your goals.
 nav: false
 nav_order: 5
 display_categories: [Graduate Student, Undergraduate Student]
