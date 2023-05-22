@@ -23,5 +23,5 @@ group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
     # gem 'wdm', '>=0.1.0'
-    # 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 new
+    # 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 new
 end
