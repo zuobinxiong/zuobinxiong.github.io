@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Current Ph.D. candidate @ GSU, Assistant Professor @ UNLV from Fall 2023</b>
+subtitle: <b>Current Ph.D. candidate @ GSU</b>
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am to be an Assistant Professor in the [Department of Computer Science](https://www.unlv.edu/cs/) at [University of Nevada-Las Vegas](https://www.unlv.edu/).
+<!-- I am to be an Assistant Professor in the [Department of Computer Science](https://www.unlv.edu/cs/) at [University of Nevada-Las Vegas](https://www.unlv.edu/). -->
 I am currently a Ph.D. candidate in Department of Computer Science at [Georgia State University](https://www.gsu.edu/) under the supervision of [Dr. Wei Li](https://tinman.cs.gsu.edu/~wli28/) and [Dr. Zhipeng Cai](http://cai.csgsu.org/index.html).
 I received my M.S. degree and B.S. degree from Department of Computer Science, Harbin Engineering University in 2019 and Department of Mathematics, Northeast Forestry University in 2016, respectively.
 I have published papers on and served as reviewer for bunch of premier conferences and journals, including IEEE ICDM, AAAI, IEEE GLOBECOM, IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Industrial Informatics (TII), Transactions on Knowledge and Data Engineering (TKDE), Transactions on Network Science and Engineering (TNSE), IEEE Transactions on Dependable and Secure Computing (TDSC), etc.
