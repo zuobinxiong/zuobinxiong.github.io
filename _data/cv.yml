@@ -17,17 +17,17 @@
       description:
         - Dissertation advisor - Dr. Wei Li and Dr. Zhipeng Cai
 
-    - title: M.S. in Computer Science
+    - title: M.E. in Computer Science
       institution: Harbin Engineering University, Harbin, China
       year: 2019
       description:
-        - Thsis advisor - Dr. Qilong Han
+        - Thesis advisor - Dr. Qilong Han
 
     - title: B.S. in Mathematics
       institution: Northeast Forestry University, Harbin, China
       year: 2016
       description:
-        - Thsis advisor - Dr. Chunrui Zhang
+        - Thesis advisor - Dr. Chunrui Zhang
 
 - title: Experience
   type: time_table
@@ -55,7 +55,7 @@
     - title: Outstanding Graduate Student Award
       year: 2023
       items:
-        - The sole one in each department, awarded by the College of Art & Science, Georgia State University, Apr. 2023
+        - The sole one in each department, awarded by the College of Arts & Sciences, Georgia State University, Apr. 2023
 
     - title: Student Travel Scholarship
       year: 2023
