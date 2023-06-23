@@ -11,30 +11,30 @@
 - title: Education
   type: time_table
   contents:
-    - title: Expected Ph.D. in Computer Science, June 2023
+    - title: Ph.D. in Computer Science
       institution: Georgia State University, Atlanta, GA
-      year: 2023
+      year: 2023.06
       description:
         - Dissertation advisor - Dr. Wei Li and Dr. Zhipeng Cai
 
-    - title: M.E. in Computer Science
+    - title: M.E. in Computer Science and Technology
       institution: Harbin Engineering University, Harbin, China
-      year: 2019
+      year: 2019.03
       description:
         - Thesis advisor - Dr. Qilong Han
 
     - title: B.S. in Mathematics
       institution: Northeast Forestry University, Harbin, China
-      year: 2016
+      year: 2016.06
       description:
         - Thesis advisor - Dr. Chunrui Zhang
 
 - title: Experience
   type: time_table
   contents:
-    - title: Assistant Professor in Computer Science
-      institution: Department of Computer Science, University of Nevada, Las Vegas
-      year: 2023 - Present
+    - title: Assistant Professor of Computer Science
+      institution: Department of Computer Science, University of Nevada-Las Vegas
+      year: 2023.07 - Present
       # description:
       #   - Description 1.
       #   - Description 2.
