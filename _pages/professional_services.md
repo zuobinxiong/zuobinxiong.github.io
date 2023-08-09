@@ -32,6 +32,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 <h2>Journal Reviewer</h2>
 <ul>
+	<li>ACM Transactions on Sensor Networks (TOSN)</li>
 	<li>IEEE Transactions on Industrial Informatics (TII)</li>
 	<li>IEEE Transactions on Vehicular Technology (TVT)</li>
 	<li>IEEE Internet of Things Journal (IoT-J)</li>

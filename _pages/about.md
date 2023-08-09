@@ -2,16 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Ph.D., Assistant Professor of Computer Science @ UNLV</b>
+subtitle: <b>Ph.D., Assistant Professor of Computer Science @UNLV</b>
 
 profile:
-  align: right
+  align: left
   image: prof_head.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
-    <p>TBE-B 332, 4505 Maryland Pkwy,
-    Las Vegas, NV 89154</p>
-
+    <p>Office: TBE-B 332, 4505 S Maryland Pkwy, Las Vegas, NV 89154</p>
+    <p>Phone: &emsp;702-895-5897</p>
+    <p>Email: &emsp;zuobin.xiong at</p>
+    <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;UNLV dot EDU</p>
 
 
 news: true  # includes a list of news items
