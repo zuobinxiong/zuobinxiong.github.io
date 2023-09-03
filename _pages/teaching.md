@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses taught in Georgia State University.
+description: Courses taught at University of Nevada-Las Vegas
 nav: true
 nav_order: 3
 ---
@@ -10,6 +10,18 @@ nav_order: 3
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
 Organize your courses by years, topics, or universities, however you like! -->
+_ _ _
+
+<h2>Instructor</h2>
+<ul>
+	<li>Instructor, CS 789 Advanced Network Security, Fall 2023, UNLV</li>
+
+</ul>
+
+<br/>
+
+Courses taught at Georgia State University
+
 _ _ _
 
 <h2>Instructor</h2>

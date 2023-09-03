@@ -29,8 +29,8 @@ I have published papers on and served as reviewer for bunch of premier conferenc
 #### Research Interests  
 
 | :----------------  | :-------------- |
-| Private Machine Learning  &emsp; &emsp; &emsp;| Privacy Inference Attacks |
-| Differential Privacy | Adversarial Machine Learning |
+| Private Machine Learning  &emsp; &emsp; &emsp;| Adversarial Machine Learning |
+| Differential Privacy | Privacy Inference Attacks |
 | Federated Learning  | the Internet of Things |
 | Cybersecurity  Study| Cybersecurity Education |
 | |  |
