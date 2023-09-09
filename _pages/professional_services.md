@@ -13,12 +13,18 @@ Organize your courses by years, topics, or universities, however you like! -->
 _ _ _
 <h2>Membership</h2>
 <ul>
-<li>IEEE Student Member</li>
+<li>Member of IEEE</li>
+<li>Member of AAAI</li>
 </ul>
 
-<h2>TPC Member</h2>
+<h2>PC Member</h2>
 <ul>
 <li>2023 - 32nd International Conference on Artificial Neural Networks (ICANN)</li>
+</ul>
+
+<h2>Editorship</h2>
+<ul>
+<li>Guest Editor -- MDPI Electronics</li>
 </ul>
 
 <h2>Conference Reviewer</h2>
