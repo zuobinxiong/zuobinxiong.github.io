@@ -20,6 +20,7 @@ _ _ _
 <h2>PC Member</h2>
 <ul>
 <li>2023 - 32nd International Conference on Artificial Neural Networks (ICANN)</li>
+<li>2023 - 1st International Conference on Meta Computing (ICMC)</li>
 </ul>
 
 <h2>Editorship</h2>
@@ -46,6 +47,8 @@ _ _ _
 	<li>IEEE Transactions on Wireless Communications (TWC)</li>
 	<li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
 	<li>IEEE Transactions on Computational Social Systems (TCSS)</li>
+	<li>IEEE Transactions on Computers (TC)</li>
+	<li>IEEE Networking Letters</li>
 	<li>Elsevier Neurocomputing</li>
 	<li>Elsevier Computer & Security</li>
 	<li>Elsevier High-Confidence Computing</li>
