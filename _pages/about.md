@@ -9,8 +9,8 @@ profile:
   image: prof_head.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office: TBE-B 332, 4505 S Maryland Pkwy, Las Vegas, NV 89154</p>
-    <p>Phone: &emsp;702-895-5897</p>
+    <p>Office: AEB-205, 4505 S Maryland Pkwy, Las Vegas, NV 89154</p>
+    <p>Phone: &emsp;(702)774-3421</p>
     <p>Email: &emsp;zuobin.xiong at</p>
     <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;UNLV dot EDU</p>
 
