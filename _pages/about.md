@@ -9,10 +9,10 @@ profile:
   image: prof_head.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office: AEB-205, 4505 S Maryland Pkwy, Las Vegas, NV 89154</p>
-    <p>Phone: &emsp;(702)774-3421</p>
-    <p>Email: &emsp;zuobin.xiong at</p>
-    <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;UNLV dot EDU</p>
+    <p>Office: AEB-200, 4505 S Maryland Pkwy, Las Vegas, NV 89154</p>
+    <p>Phone: &emsp;(702)774-3407</p>
+    <p>Email: &emsp;zuobin.xiong AT</p>
+    <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;unlv DOT edu</p>
 
 
 news: true  # includes a list of news items
@@ -29,14 +29,14 @@ I have published papers on and served as reviewer for bunch of premier conferenc
 #### Research Interests  
 
 | :----------------  | :-------------- |
-| Private Machine Learning  &emsp; &emsp; &emsp;| Adversarial Machine Learning |
-| Differential Privacy | Privacy Inference Attacks |
-| Federated Learning  | the Internet of Things |
-| Cybersecurity  Study| Cybersecurity Education |
+| Distributed Machine Learning  &emsp; &emsp; &emsp;| (Generative) Artificial Intelligence |
+| Machine Unlearning | AI4Healthcare  |
+| Differential Privacy | Privacy in IoT |
+| Adversarial Machine Learning | Cybersecurity |
 | |  |
 
 _ _ _
 
 ##### 🚀💡🏳️‍🌈 Currently recruiting❗❗❗
 
- I am looking for self-motivated students with strong mathematical and programming skills to work with me on Data Privacy, Cybersecurity, Machine Learning, and IoT projects. If you are interested, please email me your CV and indicate your goals.
+I am looking for self-motivated students with strong mathematical and programming skills to work with me on Machine Learning, Generative AI, Data Privacy, Cybersecurity, and IoT projects. If you are interested, please email me your CV and indicate your goals.

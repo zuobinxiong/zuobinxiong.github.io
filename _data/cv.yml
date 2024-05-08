@@ -8,26 +8,26 @@
 #     - name: Languages
 #       value: English, German
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. in Computer Science
-      institution: Georgia State University, Atlanta, GA
-      year: 2023.08
-      description:
-        - Dissertation advisor - Dr. Wei Li and Dr. Zhipeng Cai
-
-    - title: M.E. in Computer Science and Technology
-      institution: Harbin Engineering University, Harbin, China
-      year: 2019.03
-      description:
-        - Thesis advisor - Dr. Qilong Han
-
-    - title: B.S. in Mathematics
-      institution: Northeast Forestry University, Harbin, China
-      year: 2016.06
-      description:
-        - Thesis advisor - Dr. Chunrui Zhang
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: Ph.D. in Computer Science
+#       institution: Georgia State University, Atlanta, GA
+#       year: 2023.08
+#       description:
+#         - Dissertation advisor - Dr. Wei Li and Dr. Zhipeng Cai
+#
+#     - title: M.E. in Computer Science and Technology
+#       institution: Harbin Engineering University, Harbin, China
+#       year: 2019.03
+#       description:
+#         - Thesis advisor - Dr. Qilong Han
+#
+#     - title: B.S. in Mathematics
+#       institution: Northeast Forestry University, Harbin, China
+#       year: 2016.06
+#       description:
+#         - Thesis advisor - Dr. Chunrui Zhang
 
 - title: Experience
   type: time_table
@@ -49,9 +49,35 @@
       #   - Description 1.
       #   - Description 2.
 
-- title: Honors and Awards
+- title: Grants
   type: time_table
   contents:
+    - title: Are You Ready for College? An Explainable AI-Supported Efficient Solution for College Students Mental Health Condition Detection and Beyond
+      institution: University of Nevada-Las Vegas
+      year: 2024 - 2026
+      description:
+        - PI, $35,000
+
+    - title: Intelligent IoT Security - Next-Generation Cyber Defense Mechanisms and Vulnerability Exploration Using Language Models
+      institution: South Korea
+      year: 2024 - 2026
+      description:
+        - Co-PI, $357,739
+
+    - title: Seed Grant of NSF RII Track-2 FEC AI SUSTEIN
+      institution: NSF EPSCoR
+      year: 2023 - 2024
+      description:
+        - Single PI, $29,000
+
+- title: Awards
+  type: time_table
+  contents:
+    - title: NSF SaTC Aspiring PI Workshop Travel Grant
+      year: 2024
+      items:
+        - Awarded by NSF 2024 SaTC Aspiring PI Workshop, Apr. 2024
+
     - title: Outstanding Graduate Student Award
       year: 2023
       items:

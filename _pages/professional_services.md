@@ -25,7 +25,7 @@ _ _ _
 
 <h2>Editorship</h2>
 <ul>
-<li>Guest Editor -- MDPI Electronics</li>
+<li>Guest Editor -- Electronics SI</li>
 </ul>
 
 <h2>Conference Reviewer</h2>
