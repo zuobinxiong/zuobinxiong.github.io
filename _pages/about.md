@@ -39,4 +39,4 @@ _ _ _
 
 ##### 🚀💡🏳️‍🌈 Currently recruiting❗❗❗
 
-I am looking for self-motivated students with strong mathematical and programming skills to work with me on Machine Learning, Generative AI, Data Privacy, Cybersecurity, and IoT projects. If you are interested, please email me your CV and indicate your goals.
+I am looking for self-motivated students with strong mathematical and programming skills to work with me on Machine Learning, Generative AI, Cybersecurity, and IoT projects. If you are interested, please email me your CV and indicate your goals.
