@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Hongbi Jeong
-status: Co-advising
+title: Naveed Sultan
+status: Advising
 description: Ph.D. student at University of Nevada, Las Vegas
-img: assets/img/hongbijeong.jpg
-importance: 3
+img: assets/img/2.jpg
+importance: 2
 category: Graduate Student
 ---
 

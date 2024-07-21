@@ -5,7 +5,7 @@ permalink: /group/
 description: 🚀💡🏳️‍🌈 I am looking for self-motivated students with strong mathematical and programming skills to work with me on Machine Learning, Generative AI, Data Privacy, Cybersecurity, and IoT projects. If you are interested, please email me your CV and indicate your goals.
 nav: true
 nav_order: 5
-display_categories: [Graduate Student, Undergraduate Student]
+display_categories: [Graduate Student, Undergraduate Student, Alumni]
 horizontal: false
 ---
 

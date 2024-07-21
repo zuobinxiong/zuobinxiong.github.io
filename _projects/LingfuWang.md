@@ -4,7 +4,7 @@ title: Lingfu Wang
 status: Co-advising
 description: Ph.D. student at University of Electronic Science and Technology of China
 img: assets/img/12.jpg
-importance: 1
+importance: 4
 category: Graduate Student
 ---
 
