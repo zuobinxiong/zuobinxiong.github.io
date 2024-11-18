@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Naveed Sultan
+title: Tyen Nguyen
 status: Advising
 description: Ph.D. student at University of Nevada, Las Vegas
 img: assets/img/2.jpg
