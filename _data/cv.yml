@@ -34,7 +34,7 @@
   contents:
     - title: Assistant Professor of Computer Science
       institution: Department of Computer Science, University of Nevada-Las Vegas
-      year: 2023.07 - Present
+      year: 2023.7 - Present
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -52,6 +52,18 @@
 - title: Grants
   type: time_table
   contents:
+    - title: An Explainable AI Supported Performance Monitoring System in Distributed Sustainable Energy Networks
+      institution: NSF EPSCoR Research Fellows
+      year: 2025 - 2027
+      description:
+        - Single PI, $300,000
+
+    - title: Harnessing Data Revolution for Fire Science (HDRFS) Data Analytics Mentor
+      institution: NSF EPSCoR HDRFS
+      year: 2025.1 - 2025.6
+      description:
+        - PI, $4,750
+
     - title: Are You Ready for College? An Explainable AI-Supported Efficient Solution for College Students Mental Health Condition Detection and Beyond
       institution: University of Nevada-Las Vegas
       year: 2024 - 2026
@@ -66,7 +78,7 @@
 
     - title: Seed Grant of NSF RII Track-2 FEC AI SUSTEIN
       institution: NSF EPSCoR
-      year: 2023 - 2024
+      year: 2023 - 2025
       description:
         - Single PI, $30,000
 

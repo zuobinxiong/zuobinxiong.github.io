@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tyen Nguyen
+title: Thien Nguyen
 status: Advising
 description: Ph.D. student at University of Nevada, Las Vegas
 img: assets/img/2.jpg
