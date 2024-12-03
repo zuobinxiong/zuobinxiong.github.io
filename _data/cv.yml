@@ -49,9 +49,16 @@
       #   - Description 1.
       #   - Description 2.
 
+
 - title: Grants
   type: time_table
   contents:
+    - title: A Guided Pathway to Enhancing HSI Student Experience and Success in Generative AI with the Planting of Education Oriented GPU Cluster
+      institution: NSF HSI
+      year: 2025 - 2027
+      description:
+        - Lead PI, $200,000
+
     - title: An Explainable AI Supported Performance Monitoring System in Distributed Sustainable Energy Networks
       institution: NSF EPSCoR Research Fellows
       year: 2025 - 2027
