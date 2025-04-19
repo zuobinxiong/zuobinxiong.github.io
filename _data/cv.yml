@@ -42,9 +42,15 @@
       #     contents:
       #       - Sub-description 1.
       #       - Sub-description 2.
-    - title: Graduate Teaching/Research Assistant
+    - title: Graduate Teaching Assistant
       institution: Department of Computer Science, Georgia State University
       year: 2019 - 2023
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+    - title: Graduate Research Assistant
+      institution: Department of Computer Science, Georgia State University
+      year: 2018 - 2023
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -92,6 +98,10 @@
 - title: Awards
   type: time_table
   contents:
+    - title: UNLV University Faculty Travel Grant
+      year: 2024
+      items:
+        - Awarded by University Faculty Travel Committee (UFTC), Nov. 2024
     - title: NSF SaTC Aspiring PI Workshop Travel Grant
       year: 2024
       items:

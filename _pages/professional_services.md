@@ -11,13 +11,14 @@ nav_order: 4
 
 Organize your courses by years, topics, or universities, however you like! -->
 _ _ _
-<h2>Chairship</h2>
+<h2>Chair</h2>
 <ul>
 <li>Session Chair - 2024 IEEE International Performance, Computing, and Communications Conference (IPCCC)</li>
 </ul>
 
 <h2>Editorship</h2>
 <ul>
+	<li>Associate Editor -- IEEE Networking Letters</li>
 	<li>Guest Editor -- Electronics SI: New Challenges in Cyber Security</li>
 </ul>
 

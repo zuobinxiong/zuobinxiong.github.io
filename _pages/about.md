@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Ph.D., Assistant Professor of Computer Science @UNLV</b>
+subtitle: <b>Ph.D., Assistant Professor, Department of Computer Science @UNLV</b>
 
 profile:
   align: left

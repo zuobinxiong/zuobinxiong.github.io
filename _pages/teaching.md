@@ -14,8 +14,9 @@ _ _ _
 
 <h2>Instructor</h2>
 <ul>
+	<li>Instructor, CS 302 Data Structures, Spring 2025, UNLV</li>
 	<li>Instructor, CS 789 Secure & Private AI, Fall 2024, UNLV</li>
-	<li>Instructor, CS 302 Data Structure, Spring 2024, UNLV</li>
+	<li>Instructor, CS 302 Data Structures, Spring 2024, UNLV</li>
 	<li>Instructor, CS 789 Advanced Network Security, Fall 2023, UNLV</li>
 </ul>
 
