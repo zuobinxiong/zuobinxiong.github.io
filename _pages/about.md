@@ -9,7 +9,7 @@ profile:
   image: prof_head.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office: AEB-200, 4505 S Maryland Pkwy, Las Vegas, NV 89154</p>
+    <p>Office: Advanced Engineering Building (AEB) Suite 200, UNLV, Maryland Campus</p>
     <p>Phone: &emsp;(702)774-3407</p>
     <p>Email: &emsp;zuobin.xiong AT</p>
     <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;unlv DOT edu</p>
@@ -21,10 +21,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am an Assistant Professor in the [Department of Computer Science](https://www.unlv.edu/cs/) at the [University of Nevada-Las Vegas](https://www.unlv.edu/).
+I am an Assistant Professor in the [Department of Computer Science](https://www.unlv.edu/cs/) at the [University of Nevada-Las Vegas](https://www.unlv.edu/) (UNLV).
 I received my Ph.D. degree from the Department of Computer Science at [Georgia State University](https://www.gsu.edu/) under the supervision of [Dr. Wei Li](https://tinman.cs.gsu.edu/~wli28/) and [Dr. Zhipeng Cai](http://cai.csgsu.org/index.html).
-I received my M.E. degree and B.S. degree from Department of Computer Science, Harbin Engineering University in 2019 and Department of Mathematics, Northeast Forestry University in 2016, respectively.
-I have published papers on and served as reviewer for bunch of premier conferences and journals, including IEEE ICDM, AAAI, IEEE GLOBECOM, IEEE Transactions on Vehicular Technology (TVT), IEEE Transactions on Industrial Informatics (TII), Transactions on Knowledge and Data Engineering (TKDE), Transactions on Network Science and Engineering (TNSE), IEEE Transactions on Dependable and Secure Computing (TDSC), etc.
+Prior to my doctoral study, I received my M.E. degree and B.S. degree from Department of Computer Science, Harbin Engineering University in 2019 and Department of Mathematics, Northeast Forestry University in 2016, respectively.
+My research has been recognized through publications in leading conferences and journals, including 
+AAAI, ECML, IEEE ICDM, ACM Computing Surveys (CSUR), IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Vehicular Technology (TVT), IEEE Internet of Things Journal (IoT-J), etc.
+I also actively serve the academic community as a reviewer for these premier venues and as an Associate Editor for IEEE Networking Letters.
+
 
 #### Research Interests  
 
