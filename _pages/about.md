@@ -42,4 +42,5 @@ _ _ _
 
 ##### 🚀💡🏳️‍🌈 Currently recruiting❗❗❗
 
-I am looking for self-motivated students with strong mathematical and programming skills to work with me on Machine Learning, Generative AI, Cybersecurity, and IoT projects. If you are interested, please email me your CV and indicate your goals.
+I am looking for self-motivated students with strong mathematical and programming skills to work with me on Distributed Learning, Machine Unlearning, Generative AI, and Cybersecurity projects. 
+If you are interested, please email your Detailed CV, All academic transcripts, and a research statement in <u>one PDF file</u> directly with the subject line "Your Name, PhD Applicant for 20XX Fall/Spring".

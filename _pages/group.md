@@ -2,7 +2,7 @@
 layout: page
 title: Group
 permalink: /group/
-description: 🚀💡🏳️‍🌈 I am looking for self-motivated students with strong mathematical and programming skills to work with me on Machine Learning, Generative AI, Data Privacy, Cybersecurity, and IoT projects. If you are interested, please email me your CV and indicate your goals.
+description: 🚀💡🏳️‍🌈 I am looking for self-motivated students with strong mathematical and programming skills to work with me on Distributed Learning, Machine Unlearning, Generative AI, and Cybersecurity projects. If you are interested, please email your Detailed CV, All academic transcripts, and a research statement in "one PDF file" directly with the subject line "Your Name, PhD Applicant for 20XX Fall/Spring".
 nav: true
 nav_order: 5
 display_categories: [Graduate Student, Undergraduate Student, Alumni]
