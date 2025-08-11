@@ -26,7 +26,7 @@ I received my Ph.D. degree from the Department of Computer Science at [Georgia S
 Prior to my doctoral study, I received my M.E. degree and B.S. degree from Department of Computer Science, Harbin Engineering University in 2019 and Department of Mathematics, Northeast Forestry University in 2016, respectively.
 My research has been recognized through publications in leading conferences and journals, including 
 AAAI, ECML, IEEE ICDM, ACM Computing Surveys (CSUR), IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Vehicular Technology (TVT), IEEE Internet of Things Journal (IoT-J), etc.
-I also actively serve the academic community as a reviewer for these premier venues and as an Associate Editor for IEEE Networking Letters.
+I also actively serve the academic community as a reviewer for these premier venues and as the Associate Editor for IEEE Networking Letters and Elsevier High-Confidence Computing.
 
 
 #### Research Interests  

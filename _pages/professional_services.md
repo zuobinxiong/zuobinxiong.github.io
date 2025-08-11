@@ -19,6 +19,7 @@ _ _ _
 <h2>Editorship</h2>
 <ul>
 	<li>Associate Editor -- IEEE Networking Letters</li>
+	<li>Associate Editor -- High-Confidence Computing</li>
 	<li>Guest Editor -- Electronics SI: New Challenges in Cyber Security</li>
 </ul>
 
