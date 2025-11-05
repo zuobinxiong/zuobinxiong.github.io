@@ -9,7 +9,7 @@ profile:
   image: prof_head.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office: Advanced Engineering Building (AEB) Suite 200, UNLV, Maryland Campus</p>
+    <p>Office: Advanced Engineering Building, 4505 S Maryland Pkwy</p>
     <p>Phone: &emsp;(702)774-3407</p>
     <p>Email: &emsp;zuobin.xiong AT</p>
     <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;unlv DOT edu</p>
@@ -26,7 +26,7 @@ I received my Ph.D. degree from the Department of Computer Science at [Georgia S
 Prior to my doctoral study, I received my M.E. degree and B.S. degree from Department of Computer Science, Harbin Engineering University in 2019 and Department of Mathematics, Northeast Forestry University in 2016, respectively.
 My research has been recognized through publications in leading conferences and journals, including 
 AAAI, ECML, IEEE ICDM, ACM Computing Surveys (CSUR), IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Vehicular Technology (TVT), IEEE Internet of Things Journal (IoT-J), etc.
-I also actively serve the academic community as a reviewer for these premier venues and as the Associate Editor for IEEE Networking Letters and Elsevier High-Confidence Computing.
+I also actively serve the academic community as a reviewer for these premier venues and as the Associate Editor for IEEE Networking Letters and Elsevier High-Confidence Computing Journal.
 
 
 #### Research Interests  
